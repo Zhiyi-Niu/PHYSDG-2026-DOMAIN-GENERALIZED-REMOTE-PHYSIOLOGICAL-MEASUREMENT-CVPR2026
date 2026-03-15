@@ -2,9 +2,9 @@
 
 Participating teams that have not yet joined the competition WeChat groups are requested to scan the codes below to join the following two WeChat groups as soon as possible.
 
-![image](PhysDR.jpg)
+![image](PhysDG.jpg)
 
-![image](SCV2026.jpg)
+![image](SVC2026.jpg)
 
 
 * PhysDrive_Test.zip: This file is the sample for uploading test results of the Stage 2. All teams are required to compress their own test results into the same format as this file and submit the .zip file to the competition website.
